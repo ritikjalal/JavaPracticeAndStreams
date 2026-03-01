@@ -57,6 +57,9 @@ public class ImplementMinStack {
 
         System.out.println(stackMin.getMin());
 
+        //https://www.naukri.com/code360/problems/min-stack_3843991
+        //optimised solution
+
     }
 
 }
