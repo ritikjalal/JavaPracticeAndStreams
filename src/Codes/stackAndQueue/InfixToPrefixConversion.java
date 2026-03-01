@@ -43,6 +43,7 @@ class Solution1{
                     ans=ans+st.peek();
                     st.pop();
                 }
+                st.pop();
             }
             else{
                 while (!st.isEmpty() && priority(i) < priority(st.peek()) ){
